@@ -1,0 +1,49 @@
+{
+  "name": "css-selectors",
+  "description": "Slides for lectures about css selectors",
+  "version": "0.1.1",
+  "author": {
+    "name": "Alena Bat",
+    "url": "https://www.facebook.com/ABatickaya"
+  },
+  "homepage": "http://netology.ru/programms/html-css-base",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/solarrust/lists-and-tables.git"
+  },
+  "keywords": [
+    "html",
+    "tables",
+    "lists"
+  ],
+  "files": [
+    "i/**",
+    "css/**",
+    "js/**",
+    "*.html"
+  ],
+  "dependencies": {
+    "shower-core": "^2.0.6",
+    "shower-material": "^1.0.5",
+    "shower-ribbon": "^2.0.6"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.13.0",
+    "del": "^2.2.1",
+    "fs": "0.0.2",
+    "gulp": "^3.9.1",
+    "gulp-gh-pages": "^0.5.4",
+    "gulp-rename": "^1.2.2",
+    "gulp-replace": "^0.5.4",
+    "gulp-rsync": "0.0.6",
+    "gulp-zip": "^3.2.0",
+    "merge-stream": "^1.0.0",
+    "run-sequence": "^1.2.2"
+  },
+  "scripts": {
+    "prepare": "gulp prepare",
+    "archive": "gulp archive",
+    "publish": "gulp publish",
+    "start": "browser-sync start --server --files '*.html' 'css/*.css' 'js/*.js'"
+  }
+}
