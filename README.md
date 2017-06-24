@@ -5,10 +5,10 @@
 2. [Знакомство с CSS](https://vimeo.com/218493105/da21df93a6)
 3. [Контроль версий кода на примере системы Git](https://vimeo.com/184024471/0a237aa6ef) (смотреть с 22:56)
 4. [Организация рабочего процесса](https://vimeo.com/184533397/300ae66b05)
-5. [Лекция создателя CSS на PiterCSS #6](https://youtu.be/qFeCi6E3e14?t=1h44m18s) 
+5. [Лекция создателя CSS на PiterCSS #6](https://youtu.be/qFeCi6E3e14?t=1h44m18s)
 
 ## Презентации
-1. [Презентация с первого занятия](./slides/internet/)
+1. [Презентация с первого занятия](https://solarrust.github.io/foxford-camp/slides/internet/assets/player/KeynoteDHTMLPlayer.html#0)
 
 
 ## Инструменты
