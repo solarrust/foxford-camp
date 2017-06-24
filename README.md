@@ -14,3 +14,9 @@
 1. [Тильда](http://tilda.cc/ru/)
 2. [Онлайн-редактор CodePen](https://codepen.io/)
 3. [Редактор Атом](https://atom.io/)
+
+## Оформление кода
+1. [Оформление HTML](https://netology-university.bitbucket.io/codestyle/html/)
+2. [Оформление CSS](https://netology-university.bitbucket.io/codestyle/css/)
+3. [Оформление JavaScript](https://netology-university.bitbucket.io/codestyle/javascript/)
+4. [Наименования файлов](https://netology-university.bitbucket.io/codestyle/naming/)
