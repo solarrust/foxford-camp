@@ -27,10 +27,12 @@
 4. **[Знакомство с HTML. Интерактивные уроки](https://htmlacademy.ru/courses/basic-html)**
 5. **[Знакомство с CSS. Интерактивные уроки](https://htmlacademy.ru/courses/basic-css)**
 6. **[Игра на знание CSS-селекторов](https://flukeout.github.io/)**
+7. **[Руководство по цветам в вебе для «ботаников»](http://css-live.ru/articles/rukovodstvo-po-cvetam-v-vebe-dlya-botanikov.html)**
 
 ### CSS-анимация
 1. **[Перемещение и трансформация](https://habrahabr.ru/post/135816/)**
 2. **[Трюки с CSS-анимациями](https://habrahabr.ru/company/nordavind/blog/209462/)**
+3. **[Сборник статей. Раздел об анимации](https://github.com/melnik909/frontend-whitelist/blob/master/README.md#css-%D0%B0%D0%BD%D0%B8%D0%BC%D0%B0%D1%86%D0%B8%D0%B8)**
 
 ### Оформление кода
 1. [Оформление HTML](https://netology-university.bitbucket.io/codestyle/html/)
