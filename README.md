@@ -21,16 +21,16 @@
 ## Мануалы
 
 ### Верстка
-**1. [Туториал по HTML](http://marksheet.io/html-syntax.html)
-2. [Объяснение работы всех CSS-свойств](http://cssreference.io/)
-3. [Коллекция практических советов и заметок по вёрстке](https://habrahabr.ru/post/273471/)
-4. [Знакомство с HTML. Интерактивные уроки](https://htmlacademy.ru/courses/basic-html)
-5. [Знакомство с CSS. Интерактивные уроки](https://htmlacademy.ru/courses/basic-css)
-6. [Игра на знание CSS-селекторов](https://flukeout.github.io/)**
+1. **[Туториал по HTML](http://marksheet.io/html-syntax.html)**
+2. **[Объяснение работы всех CSS-свойств](http://cssreference.io/)**
+3. **[Коллекция практических советов и заметок по вёрстке](https://habrahabr.ru/post/273471/)**
+4. **[Знакомство с HTML. Интерактивные уроки](https://htmlacademy.ru/courses/basic-html)**
+5. **[Знакомство с CSS. Интерактивные уроки](https://htmlacademy.ru/courses/basic-css)**
+6. **[Игра на знание CSS-селекторов](https://flukeout.github.io/)**
 
 ### CSS-анимация
-**1. [Перемещение и трансформация](https://habrahabr.ru/post/135816/)
-2. [Трюки с CSS-анимациями](https://habrahabr.ru/company/nordavind/blog/209462/)**
+1. **[Перемещение и трансформация](https://habrahabr.ru/post/135816/)**
+2. **[Трюки с CSS-анимациями](https://habrahabr.ru/company/nordavind/blog/209462/)**
 
 ### Оформление кода
 1. [Оформление HTML](https://netology-university.bitbucket.io/codestyle/html/)
