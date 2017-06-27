@@ -15,24 +15,29 @@
 1. [Тильда](http://tilda.cc/ru/)
 2. [Онлайн-редактор CodePen](https://codepen.io/)
 3. [Редактор Атом](https://atom.io/)
-4. **[Используем Атом](https://medium.com/@zakharday/%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D1%83%D0%B5%D0%BC-atom-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%B5%D1%80%D0%B2%D0%BE%D0%B9-%D0%B2%D1%91%D1%80%D1%81%D1%82%D0%BA%D0%B8-8e2ff7aa9ffe)**
-5. **[Плагины для Атома](https://www.youtube.com/watch?v=9hZOCQkHb4Y)**
+4. [Используем Атом](https://medium.com/@zakharday/%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D1%83%D0%B5%D0%BC-atom-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%B5%D1%80%D0%B2%D0%BE%D0%B9-%D0%B2%D1%91%D1%80%D1%81%D1%82%D0%BA%D0%B8-8e2ff7aa9ffe)
+5. [Плагины для Атома](https://www.youtube.com/watch?v=9hZOCQkHb4Y)
 
 ## Мануалы
 
 ### Верстка
-1. **[Туториал по HTML](http://marksheet.io/html-syntax.html)**
-2. **[Объяснение работы всех CSS-свойств](http://cssreference.io/)**
-3. **[Коллекция практических советов и заметок по вёрстке](https://habrahabr.ru/post/273471/)**
-4. **[Знакомство с HTML. Интерактивные уроки](https://htmlacademy.ru/courses/basic-html)**
-5. **[Знакомство с CSS. Интерактивные уроки](https://htmlacademy.ru/courses/basic-css)**
-6. **[Игра на знание CSS-селекторов](https://flukeout.github.io/)**
-7. **[Руководство по цветам в вебе для «ботаников»](http://css-live.ru/articles/rukovodstvo-po-cvetam-v-vebe-dlya-botanikov.html)**
+1. [Туториал по HTML](http://marksheet.io/html-syntax.html)
+2. [Объяснение работы всех CSS-свойств](http://cssreference.io/)
+3. [Коллекция практических советов и заметок по вёрстке](https://habrahabr.ru/post/273471/)
+4. [Знакомство с HTML. Интерактивные уроки](https://htmlacademy.ru/courses/basic-html)
+5. [Знакомство с CSS. Интерактивные уроки](https://htmlacademy.ru/courses/basic-css)
+6. [Игра на знание CSS-селекторов](https://flukeout.github.io/)
+7. [Руководство по цветам в вебе для «ботаников»](http://css-live.ru/articles/rukovodstvo-po-cvetam-v-vebe-dlya-botanikov.html)
+8. **[Псевдокласс hover](https://webref.ru/css/hover)**
 
 ### CSS-анимация
-1. **[Перемещение и трансформация](https://habrahabr.ru/post/135816/)**
-2. **[Трюки с CSS-анимациями](https://habrahabr.ru/company/nordavind/blog/209462/)**
-3. **[Сборник статей. Раздел об анимации](https://github.com/melnik909/frontend-whitelist/blob/master/README.md#css-%D0%B0%D0%BD%D0%B8%D0%BC%D0%B0%D1%86%D0%B8%D0%B8)**
+1. [Перемещение и трансформация](https://habrahabr.ru/post/135816/)
+2. [Трюки с CSS-анимациями](https://habrahabr.ru/company/nordavind/blog/209462/)
+3. [Сборник статей. Раздел об анимации](https://github.com/melnik909/frontend-whitelist/blob/master/README.md#css-%D0%B0%D0%BD%D0%B8%D0%BC%D0%B0%D1%86%D0%B8%D0%B8)
+4. **[Презентация по CSS-анимации](http://epic.spb.ru/animation/)**
+5. **[3D кубик на чистом CSS](http://css.yoksel.ru/3d-cube/)**
+6. **[Классная статья с демками об анимации](http://css.yoksel.ru/css-animation/)**
+7. **[Переворот карточки](https://24ways.org/2010/intro-to-css-3d-transforms/)**
 
 ### Оформление кода
 1. [Оформление HTML](https://netology-university.bitbucket.io/codestyle/html/)
