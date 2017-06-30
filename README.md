@@ -1,14 +1,19 @@
 # Материалы для студентов отделения «Программирование»
 
+> Не забудьте выбрать бесплатный курс [по ссылке](https://netology.ru/development/programs)!
+> Для получения курса нужно зарегистрироваться на сайте, прислать мне название выбранного курса и почту вашего аккаунта!
+
 ## Видео
 1. [Базовая HTML-разметка](https://vimeo.com/218187045/1674b0e67c) (смотреть с 20 минуты)
 2. [Знакомство с CSS](https://vimeo.com/218493105/da21df93a6)
 3. [Контроль версий кода на примере системы Git](https://vimeo.com/184024471/0a237aa6ef) (смотреть с 22:56)
 4. [Организация рабочего процесса](https://vimeo.com/184533397/300ae66b05)
 5. [Лекция создателя CSS на PiterCSS #6](https://youtu.be/qFeCi6E3e14?t=1h44m18s)
+6. **[Переменные, числа и строки в JS](https://vimeo.com/199845442/d84d4f4e9e)**
 
 ## Презентации
 1. [Презентация с первого занятия](https://solarrust.github.io/foxford-camp/slides/internet/assets/player/KeynoteDHTMLPlayer.html#0)
+2. [Презентация по CSS-анимации](http://epic.spb.ru/animation/)
 
 
 ## Инструменты
@@ -28,16 +33,22 @@
 5. [Знакомство с CSS. Интерактивные уроки](https://htmlacademy.ru/courses/basic-css)
 6. [Игра на знание CSS-селекторов](https://flukeout.github.io/)
 7. [Руководство по цветам в вебе для «ботаников»](http://css-live.ru/articles/rukovodstvo-po-cvetam-v-vebe-dlya-botanikov.html)
-8. **[Псевдокласс hover](https://webref.ru/css/hover)**
+8. [Псевдокласс `hover`](https://webref.ru/css/hover)
 
 ### CSS-анимация
 1. [Перемещение и трансформация](https://habrahabr.ru/post/135816/)
 2. [Трюки с CSS-анимациями](https://habrahabr.ru/company/nordavind/blog/209462/)
 3. [Сборник статей. Раздел об анимации](https://github.com/melnik909/frontend-whitelist/blob/master/README.md#css-%D0%B0%D0%BD%D0%B8%D0%BC%D0%B0%D1%86%D0%B8%D0%B8)
-4. **[Презентация по CSS-анимации](http://epic.spb.ru/animation/)**
-5. **[3D кубик на чистом CSS](http://css.yoksel.ru/3d-cube/)**
-6. **[Классная статья с демками об анимации](http://css.yoksel.ru/css-animation/)**
-7. **[Переворот карточки](https://24ways.org/2010/intro-to-css-3d-transforms/)**
+4. [3D кубик на чистом CSS](http://css.yoksel.ru/3d-cube/)
+5. [Классная статья с демками об анимации](http://css.yoksel.ru/css-animation/)
+6. [Переворот карточки](https://24ways.org/2010/intro-to-css-3d-transforms/)
+
+### JavaScript
+1. **[Пример с определением геолокации](https://codepen.io/solarrust/pen/jwZBBL?editors=1010)**
+2. **[Пример с видео](https://codepen.io/solarrust/pen/BZYQZx)**
+3. **[Учебник на JS на русском языке](https://learn.javascript.ru/)**
+4. **[Сайт с задачками для тренировки](https://www.codewars.com/)**
+5. **[Игра, в которой герой выполняет написанный код](https://codecombat.com/)**
 
 ### Оформление кода
 1. [Оформление HTML](https://netology-university.bitbucket.io/codestyle/html/)
