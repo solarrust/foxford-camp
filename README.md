@@ -17,7 +17,7 @@
 ## Инструменты
 1. [Тильда](http://tilda.cc/ru/)
 2. [Онлайн-редактор CodePen](https://codepen.io/)
-3. **[Редактор Атом](https://atom.io/)	**
+3. **[Редактор Атом](https://atom.io/)**
 4. **[Используем Атом](https://medium.com/@zakharday/%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D1%83%D0%B5%D0%BC-atom-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%B5%D1%80%D0%B2%D0%BE%D0%B9-%D0%B2%D1%91%D1%80%D1%81%D1%82%D0%BA%D0%B8-8e2ff7aa9ffe)**		
 5. **[Плагины для Атома](https://www.youtube.com/watch?v=9hZOCQkHb4Y)**
 
@@ -50,6 +50,7 @@
 3. **[Учебник на JS на русском языке](https://learn.javascript.ru/)**
 4. **[Сайт с задачками для тренировки](https://www.codewars.com/)**
 5. **[Игра, в которой герой выполняет написанный код](https://codecombat.com/)**
+6. **[Документация Яндекс API](https://tech.yandex.ru/maps/)**
 
 ### Оформление кода
 1. [Оформление HTML](https://netology-university.bitbucket.io/codestyle/html/)
